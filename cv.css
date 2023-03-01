@@ -1,0 +1,47 @@
+td {
+    border: 3px solid black;
+    padding: 30px;
+    margin: 80px;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    background-color: #cceebb;
+}
+
+body { 
+    background-image: url("https://static.vecteezy.com/system/resources/previews/006/115/668/non_2x/minimalistic-corporate-business-background-with-halftone-dots-wavy-lines-to-use-the-sale-of-banners-wallpapers-brochures-landing-pages-sales-spring-color-solutions-vector.jpg");
+}
+
+
+#nombre, #fecha_de_nac, #direccion, #nro_telefono, #email { 
+    background-color: #cceebb;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+}
+
+#competencias {
+    background-color: #cceebb;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+}
+
+li {
+    background-color: #cceebb;
+    font-size: 18px;
+    position: relative;
+}
+
+#demo {
+    background-color: rgb(164, 231, 228);
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#boton {
+    margin-left: 70px;
+    font-size: 35px;
+    background-color: beige;
+}
